@@ -47,3 +47,4 @@ user	password
 siteadmin	toplayer
 t3admin	Trintech
 admin	switch
+firewall
