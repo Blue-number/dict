@@ -1,0 +1,4 @@
+clouduser
+cloudmgmt
+administrator
+winmgmt

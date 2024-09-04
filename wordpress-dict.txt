@@ -1,0 +1,6 @@
+/wp-login.php
+/robots.txt
+/wp-content/plugins/akismet/readme.txt
+/wp-admin/install.php
+/wp-content/plugins/really-simple-ssl/readme.txt
+/wp-content/plugins/wp-pagenavi/readme.txt
